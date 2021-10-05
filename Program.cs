@@ -10,6 +10,11 @@ namespace GitCliTest
             Console.WriteLine("Say something nice: ");  // it should show up in the second commit
             string input = Console.ReadLine();
             Console.WriteLine($"You said: {input}");
+
+            /*
+            this is the third commit:
+            using add command to stage changes instead of vscode
+            */
         }
     }
 }
