@@ -1,0 +1,16 @@
+/home/reed/C#/GitCliTest/bin/Debug/net5.0/GitCliTest
+/home/reed/C#/GitCliTest/bin/Debug/net5.0/GitCliTest.deps.json
+/home/reed/C#/GitCliTest/bin/Debug/net5.0/GitCliTest.runtimeconfig.json
+/home/reed/C#/GitCliTest/bin/Debug/net5.0/GitCliTest.runtimeconfig.dev.json
+/home/reed/C#/GitCliTest/bin/Debug/net5.0/GitCliTest.dll
+/home/reed/C#/GitCliTest/bin/Debug/net5.0/ref/GitCliTest.dll
+/home/reed/C#/GitCliTest/bin/Debug/net5.0/GitCliTest.pdb
+/home/reed/C#/GitCliTest/obj/Debug/net5.0/GitCliTest.csprojAssemblyReference.cache
+/home/reed/C#/GitCliTest/obj/Debug/net5.0/GitCliTest.GeneratedMSBuildEditorConfig.editorconfig
+/home/reed/C#/GitCliTest/obj/Debug/net5.0/GitCliTest.AssemblyInfoInputs.cache
+/home/reed/C#/GitCliTest/obj/Debug/net5.0/GitCliTest.AssemblyInfo.cs
+/home/reed/C#/GitCliTest/obj/Debug/net5.0/GitCliTest.csproj.CoreCompileInputs.cache
+/home/reed/C#/GitCliTest/obj/Debug/net5.0/GitCliTest.dll
+/home/reed/C#/GitCliTest/obj/Debug/net5.0/ref/GitCliTest.dll
+/home/reed/C#/GitCliTest/obj/Debug/net5.0/GitCliTest.pdb
+/home/reed/C#/GitCliTest/obj/Debug/net5.0/GitCliTest.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MVJlH9plm6Jcw1U098FBbizlR6b+KZW8+BrvHSuhm5s0aXt40sa0/cZLhOBvs3gXHWxlB+BydODUrhZ9hQM6+A==",
+  "success": true,
+  "projectFilePath": "/home/reed/C#/GitCliTest/GitCliTest.csproj",
+  "expectedPackageFiles": [
+    "/home/reed/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
