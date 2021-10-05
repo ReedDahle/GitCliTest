@@ -6,8 +6,8 @@ namespace GitCliTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from git!");
-            Console.WriteLine("Say something nice: ");
+            Console.WriteLine("Hello from git!");       // this is an edit
+            Console.WriteLine("Say something nice: ");  // it should show up in the second commit
             string input = Console.ReadLine();
             Console.WriteLine($"You said: {input}");
         }
