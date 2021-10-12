@@ -6,20 +6,23 @@ namespace GitCliTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from git!");       // this is an edit
-            Console.WriteLine("Say something nice: ");  // it should show up in the second commit
-            string input = Console.ReadLine();
-            Console.WriteLine($"You said: {input}");
-
-            /*
-            this is the third commit:
-            using add command to stage changes instead of vscode
-            */
-
-            /*
-            this is the fourth commit:
-            using vscode to push
-            */
+            for (long i=1; i<=1000000; i++)
+            {
+                long num = i;
+                Console.Write($"{num}: ");
+                while (num != 1)
+                {
+                    if (num % 2 == 0)
+                    {
+                        num = num / 2;
+                    }
+                    else
+                    {
+                        num = (3 * num) + 1;
+                    }
+                }
+                Console.WriteLine("TRUE");
+            }
         }
     }
 }
